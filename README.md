@@ -18,6 +18,7 @@ The base Polaron library contains several modules. Each can be used individually
   * `ui.actions`: The event binding framework.
   * `ui.components`: Graphical building blocks (buttons, text nodes, and more).
     * `ui.components.style`: Tools for manipulating the appearance of Nodes.
+    * `ui.components.dialogs`: Prebuilt methods for displaying dialogs to the user.
   * `ui.threaded`: Tools for running Polaron apps in parallel processes.
   * `ui.config`: Default values and constants used by the rest of the UI.
   * The `ui/resources` folder, which holds non-code resources used by the UI (such as fonts).
